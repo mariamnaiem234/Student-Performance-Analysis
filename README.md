@@ -30,3 +30,10 @@ Mariam Mohamed Naiem – AI Engineering Student
 ---
 
 > Made with ❤️ for data-driven education insights
+> ## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Screenshot(190).png)
+
+### Motivation vs Performance
+![Motivation Chart](Screenshot(191).png)
