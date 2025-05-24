@@ -25,7 +25,7 @@ The Power BI dashboard provides:
 (Add screenshots here of your dashboard and notebook if available)
 
 ## ✍️ Author
-Mariam Mohamed Naiem – AI Engineering Student
+Mariam Mohamed Naiem – AI & ML and Data Analysis Engineering Student
 
 ---
 
