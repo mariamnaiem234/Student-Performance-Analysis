@@ -14,12 +14,11 @@ This project analyzes student performance data using Python and Power BI, focusi
 -Student_Performance_Raw.csv (Original dataset)
 -Student_Performance_Cleaned.csv (After preprocessing)
 -PowerBI_Dashboard.pbix (Interactive dashboard)
-نسخ
-تحري
+
 ## 📊 Dashboard Insights
 The Power BI dashboard provides:
 - A pie chart showing the impact of teacher quality and school type on performance
-- A line chart comparing test scores and student wellness
+- A line chart comparing test scores and parental involvement
 - Motivation level summaries
 
 ## 💡 Key Findings
