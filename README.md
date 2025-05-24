@@ -21,8 +21,6 @@ The Power BI dashboard provides:
 - Private schools show a slight edge in average scores
 - High teacher quality is correlated with better student outcomes
 
-## 📸 Screenshots
-(Add screenshots here of your dashboard and notebook if available)
 
 ## ✍️ Author
 Mariam Mohamed Naiem – AI & ML and Data Analysis Engineering Student
