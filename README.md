@@ -11,8 +11,11 @@ This project analyzes student performance data using Python and Power BI, focusi
 
 ## 📁 Project Structure
 -Student-performance-analysis.ipynb (Main notebook)
+
 -Student_Performance_Raw.csv (Original dataset)
+
 -Student_Performance_Cleaned.csv (After preprocessing)
+
 -PowerBI_Dashboard.pbix (Interactive dashboard)
 
 ## 📊 Dashboard Insights
