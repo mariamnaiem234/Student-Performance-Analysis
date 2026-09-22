@@ -31,7 +31,7 @@ The Power BI dashboard provides:
 
 
 ## ✍️ Author
-Mariam Mohamed Naiem – AI & ML and Data Analysis Engineering Student
+Mariam Mohamed Naiem – AI Engineering Student
 
 ---
 
